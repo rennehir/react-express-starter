@@ -7,8 +7,7 @@ A simple setup of a React client and Express server. Run in parallel with only o
 ```sh
 git clone https://github.com/rennehir/react-express-starter.git
 cd react-express-starter
-cd client && yarn install
-cd ..
+cd client && yarn install && cd ..
 yarn install
 yarn dev
 ```
